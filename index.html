@@ -6,16 +6,6 @@
     <link rel="icon" type="image/png" href="heart-transparent.png">
     <link rel="manifest" href="manifest.json">
 </head>
-<script type="text/javascript">
-if ("serviceWorker" in navigator) {
-  window.addEventListener("load", function() {
-    navigator.serviceWorker
-      .register("/SW.js")
-      .then(res => console.log("service worker registered"))
-      .catch(err => console.log("service worker not registered", err))
-  })
-}
-</script>
 <body>
 	<div class="screen">
 		
