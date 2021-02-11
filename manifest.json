@@ -3,17 +3,17 @@
     "short_name": "TSA",
     "icons": [
         {
-            "src": "img/heart-transparent.png",
+            "src": "heart-transparent.png",
             "sizes": "92x92",
             "type": "image/png"
         },
         {
-            "src": "/img/heart-transparent.png",
+            "src": "heart-transparent.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "img/heart-transparent.png",
+            "src": "heart-transparent.png",
             "sizes": "152x152",
             "type": "image/png"
         }
