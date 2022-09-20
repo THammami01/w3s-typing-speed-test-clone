@@ -1,6 +1,6 @@
 # Typing-App
 
-Click [here](https://thammami01.github.io/Typing-Speed-App) to visit the app.
+Click [here](https://thammami01.github.io/w3s-typing-speed-test-clone) to visit the app.
 
 ## Preview
 
